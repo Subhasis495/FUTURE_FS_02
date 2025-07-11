@@ -2,7 +2,9 @@
 
 A beautiful, fully-featured e-commerce platform built with React, TypeScript, and Tailwind CSS. UrbanCart offers a seamless shopping experience with modern animations, responsive design, and comprehensive functionality.
 
-![UrbanCart Preview](https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=1200)
+## 🚀 Live Demo
+
+[View Live Website](https://urbancarte.netlify.app/)
 
 ## ✨ Features
 
@@ -35,11 +37,6 @@ A beautiful, fully-featured e-commerce platform built with React, TypeScript, an
 - **Loading States**: Elegant loading indicators throughout the app
 - **Hover Effects**: Interactive hover states for better user feedback
 
-### 📞 Customer Support
-- **Contact Form**: Integrated contact form with Formspree
-- **Multiple Contact Methods**: Phone, email, live chat, and physical store location
-- **24/7 Support**: Round-the-clock customer service information
-- **FAQ Section**: Comprehensive help and support information
 
 ## 🚀 Getting Started
 
@@ -51,7 +48,7 @@ A beautiful, fully-featured e-commerce platform built with React, TypeScript, an
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/urbancart.git
+   git clone https://github.com/Subhasis495/FUTURE_FS_02.git
    cd urbancart
    ```
 
@@ -215,7 +212,7 @@ The built application is a static site that can be deployed to any static hostin
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed 
 
 ## 🙏 Acknowledgments
 
@@ -224,13 +221,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Inspiration**: Modern e-commerce platforms and design systems
 - **Community**: React and TypeScript communities for best practices
 
-## 📞 Support
-
-For support and questions:
-- **Email**: supporturbancart@gmail.com
-- **Phone**: +91 9785462586
-- **Address**: 12, Park Street, Kolkata, West Bengal
 
 ---
 
-**UrbanCart** - Your trusted online shopping destination for quality products at unbeatable prices. 🛍️✨
+**UrbanCart** - Your trusted online shopping destination for quality products at unbeatable prices.
